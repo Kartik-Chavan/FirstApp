@@ -18,5 +18,3 @@ class Login_page extends StatelessWidget {
       ),
       drawer: Drawer(),
     );
-  }
-}
